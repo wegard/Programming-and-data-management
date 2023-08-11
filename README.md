@@ -6,9 +6,9 @@
     Advanced topics, such as Generative AI for programming and probability-based data analysis, are also explored. 
     The final segment of the course delves into databases, emphasizing the integration of SQL with Python. 
 </p>
-
-Course content for EDI 3400: Programming and data management
-
+<p>
+    This course ouline is preliminary and subject to change.
+</p>    
 <h3>Course outline</h3>
 <p>
     The course wil be split into four parts.
