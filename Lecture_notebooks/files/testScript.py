@@ -1,0 +1,1 @@
+print('This is an example of a Python script. This file is stored in the folder Lecture4')
