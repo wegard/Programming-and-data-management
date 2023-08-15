@@ -7,11 +7,11 @@
     The final segment of the course delves into databases, emphasizing the integration of SQL with Python. 
 </p>
 <p>
-    This course ouline is preliminary and subject to change.
+    This course outline is preliminary and subject to change.
 </p>    
 <h3>Course outline</h3>
 <p>
-    The course wil be split into four parts.
+    The course will be split into four parts.
     The plan given below is tentative and may change.
 </p>
 <ul>
@@ -32,7 +32,7 @@
 </ul>
 <h4>Part 3: Advanced topics</h4>
 <ul>
-  <li>Lecture 9: Generative AI for programming</li>
+  <li>Lecture 9: IDEs and generative AI for programming</li>
   <li>Lecture 10: Analyzing data, probability and statistics</li>
 </ul>
 <h4>Part 4: Databases with SQL and Python</h4>
