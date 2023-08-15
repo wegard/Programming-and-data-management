@@ -1,7 +1,14 @@
 <h1>Programming and data management</h1>
-Course content for EDI 3400: Programming and data management
-
-
+<p>
+    This is a course designed to provide students with foundational knowledge in programming using Python and a solid understanding of data management principles. 
+    The course is divided into four main sections. Initially, it focuses on basic Python programming, covering topics like variables, expressions, statements, built-in functions, and the Python Standard Library. 
+    It then progresses to working with third-party libraries, introducing students to linear algebra using Numpy, data analysis with Pandas, and visualization techniques with Matplotlib. 
+    Advanced topics, such as Generative AI for programming and probability-based data analysis, are also explored. 
+    The final segment of the course delves into databases, emphasizing the integration of SQL with Python. 
+</p>
+<p>
+    This course ouline is preliminary and subject to change.
+</p>    
 <h3>Course outline</h3>
 <p>
     The course wil be split into four parts.
